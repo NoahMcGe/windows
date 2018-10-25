@@ -1,0 +1,71 @@
+[System Process]	0	TCP	desktop-95e5s13.localdomain	50547	64.4.54.254	https	TIME_WAIT										
+chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50374	151.101.52.133	https	CLOSE_WAIT	5	1,852	10	16,020						
+chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50384	151.101.52.133	https	CLOSE_WAIT	7	3,388	13	18,237						
+chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50389	151.101.52.133	https	CLOSE_WAIT	6	2,244	10	17,924						
+chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50392	151.101.52.133	https	CLOSE_WAIT	4	1,433	79	161,910						
+chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50441	lb-192-30-253-124-iad.github.com	https	ESTABLISHED	13	1,800	10	700						
+chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50458	lb-192-30-255-113-sea.github.com	https	CLOSE_WAIT	5	4,514	12	34,411						
+chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50459	lb-192-30-255-116-sea.github.com	https	CLOSE_WAIT	4	1,984	6	5,093						
+chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50460	ec2-52-23-118-54.compute-1.amazonaws.com	https	CLOSE_WAIT	4	4,195	6	4,749						
+chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50532	sea15s01-in-f131.1e100.net	https	ESTABLISHED										
+chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50538	ie-in-f95.1e100.net	https	ESTABLISHED										
+chrome.exe	5716	UDP	DESKTOP-95E5S13	5353	*	*				2	90						
+chrome.exe	5716	UDP	DESKTOP-95E5S13	5353	*	*											
+chrome.exe	5716	UDP	DESKTOP-95E5S13	5353	*	*											
+chrome.exe	5716	UDPV6	desktop-95e5s13	5353	*	*											
+chrome.exe	5716	UDPV6	desktop-95e5s13	5353	*	*											
+lsass.exe	680	TCP	DESKTOP-95E5S13	49670	DESKTOP-95E5S13	0	LISTENING										
+lsass.exe	680	TCPV6	desktop-95e5s13	49670	desktop-95e5s13	0	LISTENING										
+services.exe	664	TCP	DESKTOP-95E5S13	49669	DESKTOP-95E5S13	0	LISTENING										
+services.exe	664	TCPV6	desktop-95e5s13	49669	desktop-95e5s13	0	LISTENING										
+spoolsv.exe	2012	TCP	DESKTOP-95E5S13	49666	DESKTOP-95E5S13	0	LISTENING										
+spoolsv.exe	2012	TCPV6	desktop-95e5s13	49666	desktop-95e5s13	0	LISTENING										
+svchost.exe	932	TCP	DESKTOP-95E5S13	epmap	DESKTOP-95E5S13	0	LISTENING										
+svchost.exe	3400	TCP	desktop-95e5s13.localdomain	5040	DESKTOP-95E5S13	0	LISTENING										
+svchost.exe	1240	TCP	DESKTOP-95E5S13	49665	DESKTOP-95E5S13	0	LISTENING										
+svchost.exe	1660	TCP	DESKTOP-95E5S13	49667	DESKTOP-95E5S13	0	LISTENING										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50197	tt-125-h9mym02.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50199	ka-gup2-c4q8312.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50200	ch-iss-3pcswf2.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50201	ka-p3-941w7y1.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50202	tt-300-5f6qdh2.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50203	tt-125-h9nym02.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50204	ch-217-d2w7j12.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50206	am-28-4syzz72.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50208	wa-cow-4vwt2f2.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50209	tt-350-4h9r8z1.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50211	pa-attn-h9txm02.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50212	hi-10-ctnx7y1.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50213	ch-att-4shzz72.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50444	ad-fp-33k3j12.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	2540	TCP	desktop-95e5s13.localdomain	50479	52.173.24.17	https	ESTABLISHED	6	1,787	8	4,430						
+svchost.exe	2540	TCP	desktop-95e5s13.localdomain	50550	52.173.28.179	https	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50551	ka-gup-9sm9bw1.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50552	40.69.223.198	https	ESTABLISHED										
+svchost.exe	7964	TCP	DESKTOP-95E5S13	ms-do	DESKTOP-95E5S13	0	LISTENING										
+svchost.exe	4748	UDP	DESKTOP-95E5S13	ssdp	*	*				9	1,233						
+svchost.exe	4748	UDP	desktop-95e5s13.localdomain	ssdp	*	*											
+svchost.exe	3400	UDP	DESKTOP-95E5S13	5050	*	*											
+svchost.exe	1740	UDP	DESKTOP-95E5S13	5353	*	*											
+svchost.exe	1740	UDP	DESKTOP-95E5S13	llmnr	*	*											
+svchost.exe	2908	UDP	DESKTOP-95E5S13	57569	*	*											
+svchost.exe	4748	UDP	desktop-95e5s13.localdomain	58370	*	*											
+svchost.exe	4748	UDP	DESKTOP-95E5S13	58371	*	*		9	1,233								
+svchost.exe	932	TCPV6	desktop-95e5s13	epmap	desktop-95e5s13	0	LISTENING										
+svchost.exe	7964	TCPV6	desktop-95e5s13	ms-do	desktop-95e5s13	0	LISTENING										
+svchost.exe	1240	TCPV6	desktop-95e5s13	49665	desktop-95e5s13	0	LISTENING										
+svchost.exe	1660	TCPV6	desktop-95e5s13	49667	desktop-95e5s13	0	LISTENING										
+svchost.exe	4748	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	4748	UDPV6	[fe80:0:0:0:55ff:ef6:92bd:51c3]	1900	*	*											
+svchost.exe	1740	UDPV6	desktop-95e5s13	5353	*	*											
+svchost.exe	1740	UDPV6	desktop-95e5s13	5355	*	*											
+svchost.exe	4748	UDPV6	[fe80:0:0:0:55ff:ef6:92bd:51c3]	58368	*	*											
+svchost.exe	4748	UDPV6	[0:0:0:0:0:0:0:1]	58369	*	*											
+svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50558	52.169.123.48	https	ESTABLISHED										
+System	4	TCP	desktop-95e5s13.localdomain	netbios-ssn	DESKTOP-95E5S13	0	LISTENING										
+System	4	TCP	DESKTOP-95E5S13	microsoft-ds	DESKTOP-95E5S13	0	LISTENING										
+System	4	UDP	desktop-95e5s13.localdomain	netbios-ns	*	*		24	1,632								
+System	4	UDP	desktop-95e5s13.localdomain	netbios-dgm	*	*											
+System	4	TCPV6	desktop-95e5s13	microsoft-ds	desktop-95e5s13	0	LISTENING										
+wininit.exe	524	TCP	DESKTOP-95E5S13	49664	DESKTOP-95E5S13	0	LISTENING										
+wininit.exe	524	TCPV6	desktop-95e5s13	49664	desktop-95e5s13	0	LISTENING										
