@@ -1,71 +1,171 @@
-[System Process]	0	TCP	desktop-95e5s13.localdomain	50547	64.4.54.254	https	TIME_WAIT										
-chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50374	151.101.52.133	https	CLOSE_WAIT	5	1,852	10	16,020						
-chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50384	151.101.52.133	https	CLOSE_WAIT	7	3,388	13	18,237						
-chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50389	151.101.52.133	https	CLOSE_WAIT	6	2,244	10	17,924						
-chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50392	151.101.52.133	https	CLOSE_WAIT	4	1,433	79	161,910						
-chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50441	lb-192-30-253-124-iad.github.com	https	ESTABLISHED	13	1,800	10	700						
-chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50458	lb-192-30-255-113-sea.github.com	https	CLOSE_WAIT	5	4,514	12	34,411						
-chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50459	lb-192-30-255-116-sea.github.com	https	CLOSE_WAIT	4	1,984	6	5,093						
-chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50460	ec2-52-23-118-54.compute-1.amazonaws.com	https	CLOSE_WAIT	4	4,195	6	4,749						
-chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50532	sea15s01-in-f131.1e100.net	https	ESTABLISHED										
-chrome.exe	5716	TCP	desktop-95e5s13.localdomain	50538	ie-in-f95.1e100.net	https	ESTABLISHED										
-chrome.exe	5716	UDP	DESKTOP-95E5S13	5353	*	*				2	90						
-chrome.exe	5716	UDP	DESKTOP-95E5S13	5353	*	*											
-chrome.exe	5716	UDP	DESKTOP-95E5S13	5353	*	*											
-chrome.exe	5716	UDPV6	desktop-95e5s13	5353	*	*											
-chrome.exe	5716	UDPV6	desktop-95e5s13	5353	*	*											
-lsass.exe	680	TCP	DESKTOP-95E5S13	49670	DESKTOP-95E5S13	0	LISTENING										
-lsass.exe	680	TCPV6	desktop-95e5s13	49670	desktop-95e5s13	0	LISTENING										
-services.exe	664	TCP	DESKTOP-95E5S13	49669	DESKTOP-95E5S13	0	LISTENING										
-services.exe	664	TCPV6	desktop-95e5s13	49669	desktop-95e5s13	0	LISTENING										
-spoolsv.exe	2012	TCP	DESKTOP-95E5S13	49666	DESKTOP-95E5S13	0	LISTENING										
-spoolsv.exe	2012	TCPV6	desktop-95e5s13	49666	desktop-95e5s13	0	LISTENING										
-svchost.exe	932	TCP	DESKTOP-95E5S13	epmap	DESKTOP-95E5S13	0	LISTENING										
-svchost.exe	3400	TCP	desktop-95e5s13.localdomain	5040	DESKTOP-95E5S13	0	LISTENING										
-svchost.exe	1240	TCP	DESKTOP-95E5S13	49665	DESKTOP-95E5S13	0	LISTENING										
-svchost.exe	1660	TCP	DESKTOP-95E5S13	49667	DESKTOP-95E5S13	0	LISTENING										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50197	tt-125-h9mym02.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50199	ka-gup2-c4q8312.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50200	ch-iss-3pcswf2.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50201	ka-p3-941w7y1.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50202	tt-300-5f6qdh2.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50203	tt-125-h9nym02.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50204	ch-217-d2w7j12.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50206	am-28-4syzz72.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50208	wa-cow-4vwt2f2.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50209	tt-350-4h9r8z1.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50211	pa-attn-h9txm02.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50212	hi-10-ctnx7y1.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50213	ch-att-4shzz72.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50444	ad-fp-33k3j12.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	2540	TCP	desktop-95e5s13.localdomain	50479	52.173.24.17	https	ESTABLISHED	6	1,787	8	4,430						
-svchost.exe	2540	TCP	desktop-95e5s13.localdomain	50550	52.173.28.179	https	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50551	ka-gup-9sm9bw1.ksd.edu	ms-do	ESTABLISHED										
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50552	40.69.223.198	https	ESTABLISHED										
-svchost.exe	7964	TCP	DESKTOP-95E5S13	ms-do	DESKTOP-95E5S13	0	LISTENING										
-svchost.exe	4748	UDP	DESKTOP-95E5S13	ssdp	*	*				9	1,233						
-svchost.exe	4748	UDP	desktop-95e5s13.localdomain	ssdp	*	*											
-svchost.exe	3400	UDP	DESKTOP-95E5S13	5050	*	*											
-svchost.exe	1740	UDP	DESKTOP-95E5S13	5353	*	*											
-svchost.exe	1740	UDP	DESKTOP-95E5S13	llmnr	*	*											
-svchost.exe	2908	UDP	DESKTOP-95E5S13	57569	*	*											
-svchost.exe	4748	UDP	desktop-95e5s13.localdomain	58370	*	*											
-svchost.exe	4748	UDP	DESKTOP-95E5S13	58371	*	*		9	1,233								
-svchost.exe	932	TCPV6	desktop-95e5s13	epmap	desktop-95e5s13	0	LISTENING										
-svchost.exe	7964	TCPV6	desktop-95e5s13	ms-do	desktop-95e5s13	0	LISTENING										
-svchost.exe	1240	TCPV6	desktop-95e5s13	49665	desktop-95e5s13	0	LISTENING										
-svchost.exe	1660	TCPV6	desktop-95e5s13	49667	desktop-95e5s13	0	LISTENING										
-svchost.exe	4748	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
-svchost.exe	4748	UDPV6	[fe80:0:0:0:55ff:ef6:92bd:51c3]	1900	*	*											
-svchost.exe	1740	UDPV6	desktop-95e5s13	5353	*	*											
-svchost.exe	1740	UDPV6	desktop-95e5s13	5355	*	*											
-svchost.exe	4748	UDPV6	[fe80:0:0:0:55ff:ef6:92bd:51c3]	58368	*	*											
-svchost.exe	4748	UDPV6	[0:0:0:0:0:0:0:1]	58369	*	*											
-svchost.exe	7964	TCP	desktop-95e5s13.localdomain	50558	52.169.123.48	https	ESTABLISHED										
-System	4	TCP	desktop-95e5s13.localdomain	netbios-ssn	DESKTOP-95E5S13	0	LISTENING										
-System	4	TCP	DESKTOP-95E5S13	microsoft-ds	DESKTOP-95E5S13	0	LISTENING										
-System	4	UDP	desktop-95e5s13.localdomain	netbios-ns	*	*		24	1,632								
-System	4	UDP	desktop-95e5s13.localdomain	netbios-dgm	*	*											
-System	4	TCPV6	desktop-95e5s13	microsoft-ds	desktop-95e5s13	0	LISTENING										
-wininit.exe	524	TCP	DESKTOP-95E5S13	49664	DESKTOP-95E5S13	0	LISTENING										
-wininit.exe	524	TCPV6	desktop-95e5s13	49664	desktop-95e5s13	0	LISTENING										
+[System Process]	0	TCP	noahvm	51423	sea30s02-in-f1.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51425	sea30s02-in-f3.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51438	64.4.54.254	https	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51444	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51445	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51446	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51447	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51453	74.125.20.157	https	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51454	sea15s12-in-f195.1e100.net	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51461	den03s10-in-f42.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51462	104.17.65.4	https	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51467	64.4.54.254	https	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51476	sea30s01-in-f10.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51480	sea30s01-in-f14.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51482	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51483	151.139.128.14	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51484	a23-65-11-27.deploy.static.akamaitechnologies.com	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51485	a23-65-11-27.deploy.static.akamaitechnologies.com	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51486	a23-65-11-27.deploy.static.akamaitechnologies.com	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51487	a23-65-11-27.deploy.static.akamaitechnologies.com	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51489	a23-192-118-20.deploy.static.akamaitechnologies.com	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51491	151.139.128.14	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51492	151.139.128.14	http	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51498	server-13-224-29-99.sea19.r.cloudfront.net	https	TIME_WAIT										
+[System Process]	0	TCP	noahvm	51500	hostingb1.owt.com	http	TIME_WAIT										
+BvSshServer.exe	4068	TCP	noahvm	ssh	noahvm	0	LISTENING										
+BvSshServer.exe	4068	TCPV6	noahvm	ssh	noahvm	0	LISTENING										
+FileZilla Server Interface.exe	2208	TCP	noahvm	49705	localhost	14147	ESTABLISHED	2	10	2	10						
+FileZilla Server.exe	4380	TCP	noahvm	ftp	noahvm	0	LISTENING										
+FileZilla Server.exe	4380	TCP	noahvm	14147	localhost	49705	ESTABLISHED	2	10	2	10						
+FileZilla Server.exe	4380	TCP	noahvm	14147	noahvm	0	LISTENING										
+FileZilla Server.exe	4380	TCPV6	[0:0:0:0:0:0:0:0]	ftp	[0:0:0:0:0:0:0:0]	0	LISTENING										
+FileZilla Server.exe	4380	TCPV6	[0:0:0:0:0:0:0:1]	14147	noahvm	0	LISTENING										
+firefox.exe	1092	TCP	noahvm	51033	localhost	51034	ESTABLISHED			7	7						
+firefox.exe	1092	TCP	noahvm	51034	localhost	51033	ESTABLISHED	7	7								
+firefox.exe	2952	TCP	noahvm	51037	localhost	51038	ESTABLISHED										
+firefox.exe	2952	TCP	noahvm	51038	localhost	51037	ESTABLISHED										
+firefox.exe	6936	TCP	noahvm	51045	localhost	51046	ESTABLISHED										
+firefox.exe	6936	TCP	noahvm	51046	localhost	51045	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51067	ec2-52-41-185-87.us-west-2.compute.amazonaws.com	https	ESTABLISHED										
+firefox.exe	8948	TCP	noahvm	51137	localhost	51138	ESTABLISHED			2	2						
+firefox.exe	8948	TCP	noahvm	51138	localhost	51137	ESTABLISHED	2	2								
+firefox.exe	7008	TCP	noahvm	51289	localhost	51290	ESTABLISHED										
+firefox.exe	7008	TCP	noahvm	51290	localhost	51289	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51319	sea15s07-in-f67.1e100.net	https	ESTABLISHED	1	39	1	39						
+firefox.exe	1092	TCP	noahvm	51329	sea15s11-in-f14.1e100.net	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51333	ie-in-f189.1e100.net	https	ESTABLISHED			1	53						
+firefox.exe	4200	TCP	noahvm	51418	localhost	51419	ESTABLISHED										
+firefox.exe	4200	TCP	noahvm	51419	localhost	51418	ESTABLISHED										
+firefox.exe	7956	TCP	noahvm	51427	localhost	51428	ESTABLISHED										
+firefox.exe	7956	TCP	noahvm	51428	localhost	51427	ESTABLISHED										
+firefox.exe	6916	TCP	noahvm	51478	localhost	51479	ESTABLISHED										
+firefox.exe	6916	TCP	noahvm	51479	localhost	51478	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51496	ec2-52-33-184-165.us-west-2.compute.amazonaws.com	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51497	ec2-34-215-15-11.us-west-2.compute.amazonaws.com	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51502	ec2-52-33-184-165.us-west-2.compute.amazonaws.com	https	ESTABLISHED										
+firefox.exe	4448	TCP	noahvm	51505	localhost	51506	ESTABLISHED										
+firefox.exe	4448	TCP	noahvm	51506	localhost	51505	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51507	any-in-2678.1e100.net	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51508	any-in-2678.1e100.net	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51509	sea30s02-in-f1.1e100.net	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51510	any-in-2678.1e100.net	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51511	sea30s02-in-f3.1e100.net	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51525	64.4.54.254	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51526	40.81.45.29	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51527	lb-192-30-255-112-sea.github.com	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51528	lb-192-30-255-112-sea.github.com	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51529	151.101.54.217	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51530	151.101.52.133	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51532	74.125.20.157	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51533	152.199.4.33	https	ESTABLISHED										
+firefox.exe	1092	TCP	noahvm	51534	64.4.54.254	https	ESTABLISHED										
+httpd.exe	8892	TCP	noahvm	http	noahvm	0	LISTENING										
+httpd.exe	8892	TCP	noahvm	https	noahvm	0	LISTENING										
+httpd.exe	8892	TCPV6	noahvm	http	noahvm	0	LISTENING										
+httpd.exe	8892	TCPV6	noahvm	https	noahvm	0	LISTENING										
+lsass.exe	724	TCP	noahvm	49664	noahvm	0	LISTENING										
+lsass.exe	724	TCPV6	noahvm	49664	noahvm	0	LISTENING										
+mysqld.exe	9072	TCP	noahvm	3306	noahvm	0	LISTENING										
+mysqld.exe	8608	TCP	noahvm	3307	noahvm	0	LISTENING										
+mysqld.exe	9072	TCPV6	noahvm	3306	noahvm	0	LISTENING										
+mysqld.exe	8608	TCPV6	noahvm	3307	noahvm	0	LISTENING										
+nginx.exe	7716	TCP	noahvm	8000	noahvm	0	LISTENING										
+OneDrive.exe	7376	TCP	noahvm	50563	52.230.222.68	https	ESTABLISHED										
+python.exe	7624	TCP	noahvm	8080	noahvm	0	LISTENING										
+python.exe	7540	TCP	noahvm	8081	noahvm	0	LISTENING										
+SearchUI.exe	5860	TCP	noahvm	50848	204.79.197.220	https	CLOSE_WAIT										
+services.exe	716	TCP	noahvm	49670	noahvm	0	LISTENING										
+services.exe	716	TCPV6	noahvm	49670	noahvm	0	LISTENING										
+SkypeApp.exe	6116	TCP	noahvm	50783	72.21.91.29	http	CLOSE_WAIT										
+SkypeApp.exe	6116	UDP	noahvm	54376	*	*											
+SkypeApp.exe	6116	UDPV6	noahvm	54376	*	*											
+spoolsv.exe	3548	TCP	noahvm	49669	noahvm	0	LISTENING										
+spoolsv.exe	3548	TCPV6	noahvm	49669	noahvm	0	LISTENING										
+svchost.exe	984	TCP	noahvm	epmap	noahvm	0	LISTENING										
+svchost.exe	1056	TCP	noahvm	ms-wbt-server	noahvm	0	LISTENING										
+svchost.exe	5308	TCP	noahvm	5040	noahvm	0	LISTENING										
+svchost.exe	1164	TCP	noahvm	49666	noahvm	0	LISTENING										
+svchost.exe	1620	TCP	noahvm	49667	noahvm	0	LISTENING										
+svchost.exe	2036	TCP	noahvm	49668	noahvm	0	LISTENING										
+svchost.exe	3688	TCP	noahvm	49671	noahvm	0	LISTENING										
+svchost.exe	3876	TCP	noahvm	50706	52.242.211.89	https	ESTABLISHED										
+svchost.exe	4120	TCP	noahvm	51494	40.69.221.239	https	ESTABLISHED										
+svchost.exe	4120	TCP	noahvm	ms-do	noahvm	0	LISTENING										
+svchost.exe	3680	UDP	noahvm	isakmp	*	*											
+svchost.exe	84	UDP	noahvm	ssdp	*	*											
+svchost.exe	84	UDP	noahvm	ssdp	*	*											
+svchost.exe	1056	UDP	noahvm	ms-wbt-server	*	*											
+svchost.exe	3504	UDP	noahvm	ws-discovery	*	*											
+svchost.exe	3540	UDP	noahvm	ws-discovery	*	*											
+svchost.exe	3540	UDP	noahvm	ws-discovery	*	*											
+svchost.exe	3504	UDP	noahvm	ws-discovery	*	*											
+svchost.exe	3680	UDP	noahvm	ipsec-msft	*	*											
+svchost.exe	5308	UDP	noahvm	5050	*	*											
+svchost.exe	2096	UDP	noahvm	5353	*	*											
+svchost.exe	2096	UDP	noahvm	llmnr	*	*											
+svchost.exe	84	UDP	noahvm	54775	*	*											
+svchost.exe	84	UDP	noahvm	54776	*	*											
+svchost.exe	3504	UDP	noahvm	59200	*	*											
+svchost.exe	3540	UDP	noahvm	60259	*	*											
+svchost.exe	4080	UDP	noahvm	60261	*	*											
+svchost.exe	984	TCPV6	noahvm	epmap	noahvm	0	LISTENING										
+svchost.exe	1056	TCPV6	noahvm	ms-wbt-server	noahvm	0	LISTENING										
+svchost.exe	4120	TCPV6	noahvm	ms-do	noahvm	0	LISTENING										
+svchost.exe	1164	TCPV6	noahvm	49666	noahvm	0	LISTENING										
+svchost.exe	1620	TCPV6	noahvm	49667	noahvm	0	LISTENING										
+svchost.exe	2036	TCPV6	noahvm	49668	noahvm	0	LISTENING										
+svchost.exe	3688	TCPV6	noahvm	49671	noahvm	0	LISTENING										
+svchost.exe	3680	UDPV6	noahvm	500	*	*											
+svchost.exe	84	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	84	UDPV6	[fe80:0:0:0:a462:f5ee:faa8:29d]	1900	*	*											
+svchost.exe	1056	UDPV6	noahvm	ms-wbt-server	*	*											
+svchost.exe	3504	UDPV6	noahvm	3702	*	*											
+svchost.exe	3504	UDPV6	noahvm	3702	*	*											
+svchost.exe	3540	UDPV6	noahvm	3702	*	*											
+svchost.exe	3540	UDPV6	noahvm	3702	*	*											
+svchost.exe	3680	UDPV6	noahvm	4500	*	*											
+svchost.exe	2096	UDPV6	noahvm	5353	*	*											
+svchost.exe	2096	UDPV6	noahvm	5355	*	*											
+svchost.exe	84	UDPV6	[fe80:0:0:0:a462:f5ee:faa8:29d]	54773	*	*											
+svchost.exe	84	UDPV6	[0:0:0:0:0:0:0:1]	54774	*	*											
+svchost.exe	3504	UDPV6	noahvm	59201	*	*											
+svchost.exe	3540	UDPV6	noahvm	60260	*	*											
+System	4	TCP	noahvm	netbios-ssn	noahvm	0	LISTENING										
+System	4	TCP	noahvm	51391	jskye-win10vm_2	microsoft-ds	ESTABLISHED										
+System	4	TCP	noahvm	51399	silas_win10_vm	microsoft-ds	ESTABLISHED	3	562	3	1,248						
+System	4	TCP	noahvm	microsoft-ds	noahvm	0	LISTENING										
+System	4	TCP	noahvm	wsd	noahvm	0	LISTENING										
+System	4	UDP	noahvm	netbios-ns	*	*		5	250	5	464						
+System	4	UDP	noahvm	netbios-dgm	*	*											
+System	4	TCPV6	noahvm	microsoft-ds	noahvm	0	LISTENING										
+System	4	TCPV6	[fe80:0:0:0:a462:f5ee:faa8:29d]	microsoft-ds	[fe80:0:0:0:61c1:b4e4:8a8f:10a1]	52120	ESTABLISHED										
+System	4	TCPV6	noahvm	wsd	noahvm	0	LISTENING										
+System	4	TCPV6	[fe80:0:0:0:a462:f5ee:faa8:29d]	51390	[fe80:0:0:0:6da3:f14d:89b3:ace4]	microsoft-ds	ESTABLISHED										
+System	4	TCPV6	[fe80:0:0:0:a462:f5ee:faa8:29d]	51398	[fe80:0:0:0:a035:9abd:3916:3584]	microsoft-ds	ESTABLISHED										
+Video.UI.exe	2720	TCP	noahvm	51342	a23-38-177-11.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+wininit.exe	572	TCP	noahvm	49665	noahvm	0	LISTENING										
+wininit.exe	572	TCPV6	noahvm	49665	noahvm	0	LISTENING										
+WinStore.App.exe	3348	TCP	noahvm	49719	a23-60-72-189.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49720	a23-192-213-30.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49721	a23-192-213-30.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49722	a23-192-213-30.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49723	a23-192-213-30.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49724	a23-192-213-30.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49725	a23-192-213-30.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49726	a23-192-213-30.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49729	a23-60-72-189.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49730	a23-60-72-189.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49731	a23-60-72-189.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49732	a23-60-72-189.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+WinStore.App.exe	3348	TCP	noahvm	49733	a23-60-72-189.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
